@@ -1,7 +1,7 @@
 ---
 name: Adicionar nova vaga
 about: Siga todas as instruções do template antes de abrir a vaga. VAGAS FORA DO TEMPLATE SERÃO EXCLUÍDAS.
-title: "[Cidade] Front-end Developer na Nome da Empresa"
+title: "[RECIFE] Front-end Developer na WTIME"
 
 ---
 
@@ -23,60 +23,45 @@ Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
 Caso a vaga for remoto durante a pandemia deixar a linha abaixo
 ==================================================
 -->
-> Vaga Remota durante a pandemia
+
 
 ## Nossa empresa
 
-Exemplo: Aqui na Corporação ACME somos líderes em...
+Wtime consultoria em T.I contrata desenvolvedores JAVA para atuar em projetos.
 
 ## Descrição da vaga
 
-Exemplo: Projeto bazinga em NodeJS, etc.
+Experiência em JAVA, PL/SQL, RDMS Oracle e PostgreSQL, APIs – Rest / Soap, Containers – Docker, GIT e Jira, Selenium.
 
 ## Local
 
-Exemplo: Remoto ou Escritório, [ESTADO], [CIDADE], [BAIRRO]
+Remoto
 
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
-
-**Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
-
-**Diferenciais:**
-- projetos opensource
-
-## Benefícios
-
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
+Conhecimentos em metodologias ágeis;
+Experiência com AngularJS;
+Experiência em projetar componentes;
+Experiência em projetar e conectar partes de pilhas de software - padrões de programação;
+Experiência com conceituação, desenvolvimento e manutenção de ferramentas de desenvolvimento de software, como estruturas e bibliotecas;
+Experiência em testes automatizados.
 
 **Diferenciais:**
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
+Experiência com o software SoulMV
+Experiência na área hospitalar.
 
 ## Contratação
 
-PJ a combinar
+PJ e CLT 
 
 ## Como se candidatar
-
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
+Interessados enviar currículo com pretensão salarial para jessica.wayne@wtime.com.br enviar no título do e-mail - JAVA
 
 ## Tempo médio de feedbacks
 
-Costumamos enviar feedbacks em até XX dias após cada processo.
-E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.com.br
+Costumamos enviar feedbacks em até 20 dias após cada processo.
+E-mail para contato em caso de não haver resposta: jessica.wayne@wtime.com.br
 
 ## Labels
 <!-- retire os labels que não fazem sentido à vaga -->
@@ -87,14 +72,10 @@ E-mail para contato em caso de não haver resposta: feedbacks@empresasuperlegal.
 
 #### Regime
 - CLT
-- Estágio
-- Freela
 - PJ
 
 #### Nível
-- Júnior
 - Pleno
 - Sênior
-- Especialista
 
 
